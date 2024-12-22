@@ -1,4 +1,3 @@
-
 import { Skeleton } from 'ui'
 
 export const SkeletonMenuList = () => {
